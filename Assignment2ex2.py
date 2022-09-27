@@ -7,4 +7,4 @@ mp = male_students / total_students
 
 print("Female Students {}". format(fp))
 print("Male students {}". format(mp))
-print("Total students {}". format(total_students))
+pmnt("Total students {}". format(total_students))
